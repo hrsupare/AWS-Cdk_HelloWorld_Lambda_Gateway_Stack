@@ -61,9 +61,4 @@ To remove the stack and all associated resources, run:
 npm run destroy 
    ```
 
-
-
-   # AWS-Cdk_HelloWorld_Lambda_Gateway_Stack
-# AWS-Cdk_HelloWorld_Lambda_Gateway_Stack
-# AWS-Cdk_HelloWorld_Lambda_Gateway_Stack
-# AWS-Cdk_HelloWorld_Lambda_Gateway_Stack
+ 
